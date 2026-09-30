@@ -2,7 +2,7 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team members:** 
 
 **Date:**
 
