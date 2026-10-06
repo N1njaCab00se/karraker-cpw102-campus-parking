@@ -37,11 +37,12 @@ calculate cost
 print to user
 
 ## Example interaction
+If using the above input:
 
 ```text
-User input:
+User input: 2.5
 
-Program output:
+Program output: $5
 ```
 
 ## Implementation plan
